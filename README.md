@@ -41,6 +41,19 @@ An enterprise-grade, modular Project Management Office (PMO) analytics platform 
 
 ---
 
+## 📸 Dashboard Screenshots
+
+### 1. Project Portfolio Timeline (Gantt Schedule)
+![Gantt Chart](images/gantt-chart.png)
+
+### 2. Portfolio Financials & Health Distribution
+![Budget and Health](images/budget-health.png)
+
+### 3. Risk Matrix (Budget Utilization vs. Progress)
+![Risk Matrix](images/risk-matrix.png)
+
+---
+
 ## 🏗️ Project Architecture
 
 ```text
@@ -64,75 +77,3 @@ PMO-Portfolio-Management-Dashboard/
 │
 └── tests/                       # Automated unit and integration test suite
     └── test_pmo_dashboard.py    # Test specifications for generation, processing & filtering
-```
-
----
-
-## 🚀 Quickstart Guide
-
-### 1. Prerequisites
-
-Ensure Python 3.10 or higher is installed on your system.
-
-### 2. Installation
-
-Clone this repository and install the required dependencies:
-
-```bash
-git clone https://github.com/kiwisibk/PMO-Portfolio-Management-Dashboard.git
-cd PMO-Portfolio-Management-Dashboard
-
-# Optional: Create and activate a virtual environment
-python -m venv .venv
-# On Windows:
-.venv\Scripts\activate
-# On Linux/macOS:
-source .venv/bin/activate
-
-# Install required dependencies
-pip install -r requirements.txt
-```
-
-### 3. Generate PMO Data (Optional)
-
-The dashboard will automatically generate synthetic data on its initial run if no CSV is found. To pre-generate or customize the dataset manually:
-
-```bash
-python src/generate_pmo_data.py --num-projects 60 --seed 42
-```
-
-### 4. Launch the Dashboard
-
-Start the interactive Streamlit dashboard:
-
-```bash
-streamlit run app.py
-```
-
-Once launched, navigate to `http://localhost:8501` in your web browser.
-
----
-
-## 🧪 Running Automated Tests
-
-Run the comprehensive test suite with `pytest`:
-
-```bash
-python -m pytest -v
-```
-
----
-
-## 📊 RAG Status Definition & Governance
-
-| RAG Status | Hex Color | PMO Definition | Strategic Action Required |
-|:---:|:---:|:---|:---|
-| **Green** | `#10b981` | On track. Budget variance within ±5%, milestones met. | Routine PMO monitoring. |
-| **Amber** | `#f59e0b` | Potential risk detected. Minor budget or schedule overrun. | Preventive review with Project Manager. |
-| **Red** | `#ef4444` | Critical deviation. Significant overrun or blocker. | Executive steering committee escalation. |
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
