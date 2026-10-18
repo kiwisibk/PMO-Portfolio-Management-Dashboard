@@ -1,0 +1,51 @@
+project_id,project_name,department,project_manager,status,rag_status,strategic_priority,start_date,end_date,planned_budget,actual_cost,completion_percentage
+PRJ-1001,Data-Driven Supply Chain Automation,Information Technology,Cristian Santos,Active,Green,High,2026-03-29,2027-03-26,111000.0,45175.47,47
+PRJ-1002,Enterprise ERP Migration,Digital Marketing & Sales,Daniel Wagner,Planning,Green,Medium,2026-11-30,2027-08-31,619000.0,0.0,0
+PRJ-1003,NextGen Customer Self-Service Portal,Human Resources,Abigail Shaffer,Active,Green,High,2026-08-23,2027-04-12,754000.0,150839.98,21
+PRJ-1004,Omni-Channel Cybersecurity Architecture,Human Resources,Gina Moore,On Hold,Amber,High,2026-08-19,2027-07-28,1337000.0,675519.36,45
+PRJ-1005,Sustainable Financial Reporting Consolidation,Digital Marketing & Sales,Daniel Wagner,Active,Amber,Medium,2026-03-05,2027-01-20,256000.0,222621.48,80
+PRJ-1006,Digital Financial Reporting Consolidation,Supply Chain & Logistics,Connie Lawrence,Planning,Green,High,2027-01-28,2028-03-22,1297000.0,0.0,0
+PRJ-1007,Unified AI Analytics Engine,Supply Chain & Logistics,Gina Moore,On Hold,Amber,High,2026-07-14,2027-11-03,1623000.0,986121.8,53
+PRJ-1008,Enterprise Cybersecurity Architecture,Engineering & R&D,Connie Lawrence,Active,Green,High,2026-03-19,2027-03-04,1366000.0,697210.02,55
+PRJ-1009,Automated CRM Modernization,Supply Chain & Logistics,Cristian Santos,Active,Red,Medium,2026-06-08,2027-06-01,1093000.0,456761.39,31
+PRJ-1010,Sustainable Supply Chain Automation,Supply Chain & Logistics,Angie Henderson,Active,Green,Medium,2026-06-12,2027-02-12,564000.0,309153.78,54
+PRJ-1011,Sustainable ERP Migration,Human Resources,Noah Rhodes,Active,Green,Medium,2026-03-06,2027-02-02,979000.0,499614.07,60
+PRJ-1012,Smart DevOps Pipeline Optimization,Digital Marketing & Sales,Angie Henderson,Active,Green,High,2026-07-04,2027-07-19,1611000.0,424078.03,30
+PRJ-1013,Omni-Channel ERP Migration,Digital Marketing & Sales,Connie Lawrence,Active,Green,High,2026-02-24,2027-01-24,1211000.0,795794.01,65
+PRJ-1014,Cloud Business Continuity Overhaul,Engineering & R&D,Noah Rhodes,Active,Green,Low,2026-08-17,2027-03-08,1130000.0,439956.81,39
+PRJ-1015,Agile Payment Gateway Upgrade,Digital Marketing & Sales,Daniel Wagner,Active,Green,Medium,2026-04-05,2027-05-13,297000.0,124534.37,47
+PRJ-1016,Cloud HR Talent Management Suite,Information Technology,Daniel Wagner,Active,Green,High,2026-09-03,2027-09-21,726000.0,31292.26,5
+PRJ-1017,Enterprise DevOps Pipeline Optimization,Human Resources,Gina Moore,Active,Green,High,2026-04-24,2027-04-11,883000.0,350609.59,45
+PRJ-1018,Cloud IoT Fleet Tracking System,Finance & Controlling,Abigail Shaffer,Completed,Green,High,2026-03-02,2026-05-28,1541000.0,1398737.1,100
+PRJ-1019,Enterprise Payment Gateway Upgrade,Supply Chain & Logistics,Gina Moore,Active,Amber,Critical,2026-07-17,2027-05-09,1177000.0,368878.74,30
+PRJ-1020,Data-Driven ERP Migration,Information Technology,Daniel Wagner,Active,Green,Critical,2026-06-08,2026-11-24,849000.0,539548.0,71
+PRJ-1021,Omni-Channel Compliance & Governance Framework,Finance & Controlling,Abigail Shaffer,Planning,Amber,Medium,2027-01-25,2028-01-04,367000.0,0.0,0
+PRJ-1022,Zero-Trust Cybersecurity Architecture,Human Resources,Connie Lawrence,Active,Green,Critical,2026-05-06,2027-03-19,1793000.0,679697.26,43
+PRJ-1023,Zero-Trust Data Lakehouse Rollout,Human Resources,Daniel Wagner,On Hold,Red,High,2026-07-07,2027-09-21,1318000.0,758587.63,47
+PRJ-1024,Data-Driven HR Talent Management Suite,Finance & Controlling,Daniel Wagner,Active,Green,Medium,2026-06-09,2026-12-21,697000.0,491770.57,70
+PRJ-1025,Cloud ERP Migration,Operations & Manufacturing,Noah Rhodes,Active,Red,Critical,2026-08-16,2027-02-27,806000.0,404082.88,39
+PRJ-1026,Digital Infrastructure Modernization,Digital Marketing & Sales,Allison Hill,Active,Red,Medium,2026-08-23,2027-09-26,1570000.0,193011.15,9
+PRJ-1027,Automated Infrastructure Modernization,Digital Marketing & Sales,Daniel Wagner,Active,Red,Medium,2026-07-13,2027-08-01,1782000.0,541389.27,25
+PRJ-1028,Data-Driven IoT Fleet Tracking System,Engineering & R&D,Cristian Santos,Active,Green,Critical,2026-04-08,2027-01-13,1495000.0,855256.91,62
+PRJ-1029,NextGen Supply Chain Automation,Information Technology,Angie Henderson,Completed,Green,High,2025-07-13,2026-07-06,311000.0,266561.49,100
+PRJ-1030,Strategic Cybersecurity Architecture,Finance & Controlling,Daniel Wagner,Planning,Green,Medium,2027-02-09,2027-10-08,882000.0,0.0,0
+PRJ-1031,Smart CRM Modernization,Supply Chain & Logistics,Angie Henderson,Completed,Green,Low,2026-04-09,2027-01-05,730000.0,717594.16,100
+PRJ-1032,Agile AI Analytics Engine,Finance & Controlling,Angie Henderson,Active,Red,Medium,2026-05-21,2027-01-02,766000.0,593599.72,60
+PRJ-1033,Omni-Channel AI Analytics Engine,Supply Chain & Logistics,Allison Hill,Active,Green,Medium,2026-09-01,2027-03-22,1441000.0,293040.45,20
+PRJ-1034,Unified HR Talent Management Suite,Information Technology,Noah Rhodes,Active,Green,Medium,2026-07-13,2027-07-05,1542000.0,288202.31,19
+PRJ-1035,Agile Supply Chain Automation,Operations & Manufacturing,Daniel Wagner,Planning,Red,High,2027-01-07,2027-03-08,1152000.0,0.0,0
+PRJ-1036,Smart Payment Gateway Upgrade,Finance & Controlling,Abigail Shaffer,Planning,Green,Critical,2027-01-20,2027-09-06,1786000.0,0.0,0
+PRJ-1037,Strategic Warehouse Robotics Integration,Human Resources,Cristian Santos,Active,Green,High,2026-06-13,2027-07-18,1172000.0,395185.88,34
+PRJ-1038,Enterprise IoT Fleet Tracking System,Engineering & R&D,Connie Lawrence,Active,Red,High,2026-05-11,2027-03-08,1557000.0,1149121.08,59
+PRJ-1039,Cloud Infrastructure Modernization,Digital Marketing & Sales,Connie Lawrence,On Hold,Red,Critical,2026-06-21,2027-03-18,351000.0,101705.28,24
+PRJ-1040,Enterprise Business Continuity Overhaul,Digital Marketing & Sales,Noah Rhodes,Completed,Green,High,2026-01-12,2027-01-01,836000.0,780860.88,100
+PRJ-1041,Enterprise CRM Modernization,Human Resources,Allison Hill,Completed,Green,Medium,2025-09-16,2026-01-08,1696000.0,1717800.77,100
+PRJ-1042,Unified Compliance & Governance Framework,Information Technology,Daniel Wagner,Active,Red,Low,2026-02-25,2027-03-05,1269000.0,1084772.92,66
+PRJ-1043,Zero-Trust IoT Fleet Tracking System,Engineering & R&D,Gina Moore,Planning,Green,Medium,2026-12-29,2027-10-28,556000.0,0.0,0
+PRJ-1044,Automated Business Continuity Overhaul,Human Resources,Daniel Wagner,Active,Red,High,2026-07-20,2027-02-11,215000.0,106770.05,40
+PRJ-1045,Enterprise Warehouse Robotics Integration,Human Resources,Angie Henderson,Active,Green,Medium,2026-06-26,2027-03-25,1755000.0,663010.93,41
+PRJ-1046,Sustainable Warehouse Robotics Integration,Operations & Manufacturing,Allison Hill,Active,Green,Low,2026-06-03,2027-03-24,1285000.0,657072.21,51
+PRJ-1047,Digital AI Analytics Engine,Finance & Controlling,Abigail Shaffer,Active,Amber,High,2026-03-29,2027-05-05,311000.0,197683.57,54
+PRJ-1048,Unified ERP Migration,Operations & Manufacturing,Allison Hill,Active,Green,Critical,2026-08-03,2027-05-26,981000.0,177671.61,20
+PRJ-1049,Omni-Channel Warehouse Robotics Integration,Finance & Controlling,Abigail Shaffer,Active,Red,High,2026-03-11,2027-03-25,509000.0,347937.73,49
+PRJ-1050,Zero-Trust CRM Modernization,Supply Chain & Logistics,Angie Henderson,Active,Green,High,2026-05-22,2027-01-11,1293000.0,904513.09,69
